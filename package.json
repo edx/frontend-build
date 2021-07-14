@@ -67,7 +67,7 @@
     "resolve-url-loader": "5.0.0-beta.1",
     "sass": "1.26.11",
     "sass-loader": "10.0.5",
-    "source-map-loader": "0.2.4",
+    "source-map-loader": "3.0.0",
     "style-loader": "2.0.0",
     "url-loader": "4.1.1",
     "webpack": "5.44.0",
